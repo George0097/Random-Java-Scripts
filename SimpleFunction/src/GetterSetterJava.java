@@ -17,7 +17,7 @@ class Main {
         GetterSetterJava obj = new GetterSetterJava();
 
         // Set the value using the setter
-        obj.setMyNumber(50);
+        obj.setMyNumber(512);
 
         // Get the value using the getter
         int value = obj.getMyNumber();
