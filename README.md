@@ -1,1 +1,1 @@
-A random assortment of programs.
+a random assortment of programs.
