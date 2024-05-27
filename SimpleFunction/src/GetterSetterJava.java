@@ -8,7 +8,7 @@ public class GetterSetterJava {
 
     // Setter method for myNumber
     public void setMyNumber(int newValue) {
-        myNumber = newValue;
+        myNumber =newValue;
     }
 }
 
